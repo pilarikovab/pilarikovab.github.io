@@ -1,1 +1,1 @@
-# pilarikovab.github.io
+theme: minima
